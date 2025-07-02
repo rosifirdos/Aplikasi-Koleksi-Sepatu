@@ -66,16 +66,3 @@ classDiagram
 
     Sepatu <|-- SepatuOlahraga : Inherits
     Sepatu <|-- SepatuCasual : Inherits
-
-Struktur Proyek
-aplikasi_sepatu/
-├── main.py
-├── models/
-│   ├── __init__.py
-│   └── sepatu.py
-│   └── sepatu_olahraga.py
-│   └── sepatu_casual.py
-├── gui/
-│   ├── __init__.py
-│   └── app_pyqt.py
-└── README.md
