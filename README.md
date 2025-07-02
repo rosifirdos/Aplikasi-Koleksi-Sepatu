@@ -7,9 +7,6 @@ Aplikasi sederhana untuk mengelola koleksi sepatu, dikembangkan sebagai bagian d
 - [Fitur](#fitur)
 - [Konsep OOP yang Diterapkan](#konsep-oop-yang-diterapkan)
 - [Class Diagram](#class-diagram)
-- [Struktur Proyek](#struktur-proyek)
-- [Cara Menjalankan](#cara-menjalankan)
-- [Kredit](#kredit)
 
 ## Tujuan Proyek
 Proyek ini bertujuan untuk mendemonstrasikan pemahaman dan implementasi konsep-konsep dasar Pemrograman Berorientasi Objek dalam sebuah aplikasi manajemen data sederhana dengan antarmuka grafis. Tema yang dipilih adalah "Koleksi Barang" dengan fokus pada Sepatu.
