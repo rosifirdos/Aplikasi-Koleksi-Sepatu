@@ -66,3 +66,6 @@ classDiagram
 
     Sepatu <|-- SepatuOlahraga : Inherits
     Sepatu <|-- SepatuCasual : Inherits
+
+```markdown
+    ## Struktur Proyek
